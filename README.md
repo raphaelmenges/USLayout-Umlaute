@@ -1,4 +1,4 @@
-# US Layout with German special letters
+# US layout with German special letters
 An AutoHotkey script to make German special letters available on a keyboard with US layout on Microsoft Windows.
 
 The script disables the right ALT key as general modifier and implements following shortcuts:
